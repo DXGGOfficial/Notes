@@ -8,11 +8,11 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 👉 开始
+      link: /Git/使用 GPG 签名你的 Git Commit
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 📝 Github
+      link: https://github.com/DXGGOfficial/Notes
 
 features:
   - title: Feature A
