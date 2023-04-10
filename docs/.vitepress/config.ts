@@ -33,8 +33,11 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Git',
+        collapsible: true,
+        collapsed: true,
         items: [
-          { text: '使用 GPG 签名你的 Git Commit', link: '/Git/使用 GPG 签名你的 Git Commit' }
+          { text: '使用 GPG 签名你的 Git Commit', link: '/Git/使用 GPG 签名你的 Git Commit' },
+          { text: '配置 SSH Key 免密登录', link: '/Git/配置 SSH Key 免密登录' }
         ]
       }
     ],
